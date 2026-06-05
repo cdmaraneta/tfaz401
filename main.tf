@@ -14,7 +14,7 @@ provider "azurerm" {
 
 
 resource "azurerm_resource_group" "main-rg-01" {
-  name     = "az-rg-01-v3"
+  name     = "az-rg-01-v4"
   location = "southeastasia"
 
 }
